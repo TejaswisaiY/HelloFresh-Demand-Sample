@@ -1,0 +1,13 @@
+year,q,quarter,orders_m,revenue_eur_m,marketing_pct,note
+2023,3,2023 Q3,27.99,,,Only orders collected for this quarter.
+2024,1,2024 Q1,31.98,,23.2,Marketing share is derived: the Q1 2025 release says it fell 0.9 points to 22.3.
+2024,2,2024 Q2,28.91,,,Marketing share not found in a public release.
+2024,3,2024 Q3,27.46,1828.4,18.7,
+2024,4,2024 Q4,26.29,1808.5,16.0,
+2025,1,2025 Q1,28.21,1930.7,22.3,
+2025,2,2025 Q2,25.32,1699.6,16.3,
+2025,3,2025 Q3,23.93,1581.5,20.1,Reported as 20.0 in the 2025 statement (excluding share-based pay) and 20.1 on the Q3 2026 call.
+2025,4,2025 Q4,23.08,1549.0,,Marketing share is not stated in the FY 2025 press release.
+2026,1,2026 Q1,24.94,1675.1,21.9,
+2026,2,2026 Q2,21.84,1549.9,14.9,
+2026,3,2026 Q3,19.63,1426.1,16.9,Share from the earnings call. The press release states the change only: down 3.2 points.
